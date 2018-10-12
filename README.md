@@ -1,3 +1,5 @@
+*转自别人的github
+
 # HiPermission
 A simple and beautiful runtime permission library on Android.[中文文档](/README-CN.md)
 
